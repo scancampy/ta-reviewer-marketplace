@@ -1,0 +1,12 @@
+{
+  "name": "ta-reviewer-marketplace",
+  "description": "Plugin pemeriksa tugas akhir untuk dosen Teknik Informatika",
+  "owner": { "name": "Nama Anda" },
+  "plugins": [
+    {
+      "name": "ta-reviewer",
+      "source": "./plugins/ta-reviewer",
+      "description": "Memeriksa satu bab tugas akhir (Bab 1-7 dan bagian pendukung) terhadap rubrik per bab, dengan bukti halaman, skor, dan saran perbaikan"
+    }
+  ]
+}
