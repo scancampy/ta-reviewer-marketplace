@@ -1,0 +1,8 @@
+{
+  "name": "ta-reviewer",
+  "version": "0.1.0",
+  "description": "Membantu dosen Teknik Informatika memeriksa satu bab tugas akhir (Bab 1-7 dan bagian pendukung) terhadap rubrik per bab, dengan bukti halaman, skor, dan saran perbaikan.",
+  "author": { "name": "Dosen Teknik Informatika" },
+  "keywords": ["tugas-akhir", "rubrik", "dosen", "teknik-informatika", "pendidikan", "indonesia"],
+  "license": "MIT"
+}
